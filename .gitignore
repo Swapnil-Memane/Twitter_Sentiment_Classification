@@ -1,0 +1,55 @@
+# =========================
+# Python cache / temp files
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+
+# =========================
+# Jupyter / Notebook files
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Data files
+# =========================
+data/
+*.csv
+*.tsv
+*.npy
+*.json
+*.zip
+
+# =========================
+# Model files
+# =========================
+*.h5
+*.joblib
+*.pkl
+*.pt
+*.ckpt
+*.keras
+*.sav
+
+# =========================
+# Logs / checkpoints
+# =========================
+logs/
+*.log
+checkpoint/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# VS Code / IDE files
+# =========================
+.vscode/
+.idea/
+*.code-workspace
